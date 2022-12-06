@@ -23,7 +23,6 @@ You may also view these notebooks on Google Colaboratory.
 - Nonconformist Dice
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb)
 [(github)](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb)
-
 - Can you spot the Black Hole?
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb)
 [(github)](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb)
