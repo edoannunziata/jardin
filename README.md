@@ -19,6 +19,11 @@ You may also view these notebooks on Google Colaboratory.
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)
 [(github)](https://github.com/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)
 
+### Hanukkah of Data
+- Hanukkah of Data 5783
+[(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb)
+[(github)](https://github.com/edoannunziata/jardin/blob/master/hod83/HannukkahOfData83.ipynb)
+
 ### FiveThirtyEight
 - Nonconformist Dice
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb)

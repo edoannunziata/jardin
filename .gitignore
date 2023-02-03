@@ -1,6 +1,10 @@
 # Advent of Code test files
 test.txt
 
+# Hanukkah of Data input files
+*.csv
+*.zip
+
 # macOS
 .DS_Store
 
