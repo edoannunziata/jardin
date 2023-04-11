@@ -22,7 +22,7 @@ You may also view these notebooks on Google Colaboratory.
 ### Hanukkah of Data
 - Hanukkah of Data 5783
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb)
-[(github)](https://github.com/edoannunziata/jardin/blob/master/hod83/HannukkahOfData83.ipynb)
+[(github)](https://github.com/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb)
 
 ### FiveThirtyEight
 - Nonconformist Dice
@@ -36,3 +36,9 @@ You may also view these notebooks on Google Colaboratory.
 - Project Euler, problems 1-50 
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/projecteuler/ProjectEuler.ipynb)
 [(github)](https://github.com/edoannunziata/jardin/blob/master/projecteuler/ProjectEuler.ipynb)
+
+### Miscellaneous
+- _Digits_, a daily game from _The New York Times_
+[(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/misc/Digits.ipynb)
+[(github)](https://github.com/edoannunziata/jardin/blob/master/misc/Digits.ipynb)
+
