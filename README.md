@@ -18,6 +18,9 @@ You may also view these notebooks on Google Colaboratory.
 - Advent of Code 2022 
 [(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)
 [(github)](https://github.com/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)
+- Advent of Code 2023
+[(colab)](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb)
+[(github)](https://github.com/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb)
 
 ### Hanukkah of Data
 - Hanukkah of Data 5783
