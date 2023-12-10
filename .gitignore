@@ -1,8 +1,13 @@
+# Secrets
+env
+.env
+
 # Idea
 .idea
 
-# Advent of Code test files
+# Advent of Code test and input files
 test.txt
+input
 
 # Hanukkah of Data input files
 *.csv
