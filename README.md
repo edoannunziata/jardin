@@ -27,17 +27,14 @@ You may view each notebook:
 | -------- | ----- |
 | *The Kingdom of Algorithmia (2024)* | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb)       |
 
-### FiveThirtyEight
-| Notebook | Links |
-| --- |-------|
-| Nonconformist Dice | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) |
-| Can you spot the Black Hole? |[Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) |
-
 ### Miscellaneous
 | Notebook | Links                                                                                                                                                                                                                                                                                                        |
 | --- |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nonconformist Dice | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/fivethirtyeight/NonconformistDice.ipynb) |
+| Can you spot the Black Hole? |[Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/fivethirtyeight/BlackHole.ipynb) |
 | Hanukkah of Data 5783 | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/hod83/HanukkahOfData83.ipynb) |
 | Project Euler, problems 1-50 | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/projecteuler/ProjectEuler.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/projecteuler/ProjectEuler.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/projecteuler/ProjectEuler.ipynb) |
 | _Digits_, a game from _The New York Times_ | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/misc/Digits.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/misc/Digits.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/misc/Digits.ipynb)                                           |
 | A fully general solution to Aoc23 Day 8 | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/misc/Aoc23Day8BonusRound.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/misc/Aoc23Day8BonusRound.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/misc/Aoc23Day8BonusRound.ipynb) |
 | A study of _Hare and Hounds_ | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/misc/HareAndHounds.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/misc/HareAndHounds.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/misc/HareAndHounds.ipynb) |
+
