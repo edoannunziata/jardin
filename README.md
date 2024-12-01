@@ -20,6 +20,12 @@ You may view each notebook:
 | Advent of Code 2021   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc21/AdventOfCode21.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc21/AdventOfCode21.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc21/AdventOfCode21.ipynb)       |
 | Advent of Code 2022   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)       |
 | Advent of Code 2023   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb)       |
+| Advent of Code 2024   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb)       |
+
+### Everybody Codes
+| Notebook | Links |
+| -------- | ----- |
+| *The Kingdom of Algorithmia (2024)* | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/ec24/EverybodyCodes24.ipynb)       |
 
 ### FiveThirtyEight
 | Notebook | Links |
