@@ -5,12 +5,20 @@
 -- Voltaire, correspondence with D'Alambert. March 27, 1773.
 
 ## What is this?
-This repository contains a collection of math, programming and computer science exercises. They are meant to sharpen my skills and keep my mind from rotting too much. I hope they might be somehow useful or interesting to you.
+This repository contains a collection of math, programming and computer science exercises. 
+They are meant to sharpen my skills and keep my mind from rotting too much. I hope they might be somehow useful or interesting to you.
 
 You may view each notebook:
 - On Github directly (Gh)
 - On Google Colaboratory (Co)
 - On NbViewer (Nb)
+
+These notes are written in the style of [_literate programming_](https://github.com/norvig/pytudes), 
+where machine-exectutable code and natural language descriptions are liberally interwoven.
+An inspiration for this collection is [_pytudes_](https://github.com/norvig/pytudes) by Peter Norvig.
+
+Python is the language of choice due to its ubiquity and aptness for rapid development. It is the worst
+programming language ever invented, except for all the others.
 
 ## Contents
 
