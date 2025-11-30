@@ -28,6 +28,7 @@ Python is the language of choice due to its ubiquity and aptness for rapid devel
 | Advent of Code 2022   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc22/AdventOfCode22.ipynb)       |
 | Advent of Code 2023   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc23/AdventOfCode23.ipynb)       |
 | Advent of Code 2024   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc24/AdventOfCode24.ipynb)       |
+| Advent of Code 2025   | [Co](https://colab.research.google.com/github/edoannunziata/jardin/blob/master/aoc25/AdventOfCode25.ipynb) [Gh](https://github.com/edoannunziata/jardin/blob/master/aoc25/AdventOfCode25.ipynb) [Nb](https://nbviewer.org/github/edoannunziata/jardin/blob/master/aoc25/AdventOfCode25.ipynb)       |
 
 ### Everybody Codes
 | Notebook | Links |
